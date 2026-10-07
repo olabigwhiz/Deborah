@@ -1,0 +1,99 @@
+
+
+.parent-container{
+    background-color: rgb(246, 242, 242);
+    border-radius: 10px;
+    height: 550px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+.nav-link{
+    text-decoration: dashed;
+    text-align: end
+}
+.main-header{
+    color: rgb(46, 44, 44);
+    text-align: center;
+    text-decoration: none;
+}
+.hero-title{
+    text-decoration: solid;
+    text-transform: capitalize;
+    font-family: fantasy;
+    padding: 100px 0px 0px 50px;
+}
+.hero-text{
+    padding: 100px 0px 0px 25px;
+}
+.hero-button-1{
+    background-color: rgba(226, 153, 153, 0.312);
+    color: black;
+    text-decoration: none;
+    border-radius: 100px;
+    margin: 100px 20px 5px 20px ;
+}
+.hero-button-2{
+    background-color: rgba(226, 153, 153, 0.312);
+    border-radius: 100px;
+    margin: 0px 0px 0px 0px;
+}
+.children-container{
+    background-color: rgb(213, 198, 198);
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.main-footer{
+    padding-top: 10px;
+}
+.footer-text{
+    padding-left: 500px;
+    padding-top: 30px;
+}
+.contact-info-1{
+    padding-left: 800px;
+    padding-top:0px ;
+}
+.contact-info-2{
+    text-align: end;
+    padding-top: 30px;
+}
+.contact-container{
+    background-color: rgb(232, 226, 220);
+    border-radius: 10px;
+}
+.hero-section{
+    text-align: center;
+}
+.hero-section-1{
+    text-align: center;
+}
+.container{
+     background-color: rgb(246, 242, 242);
+     border-radius: 10px;
+}
+.container-5{
+    text-align: center;
+}
+.container-6{
+    text-align: center;
+}
+nav{
+    background-color: rgb(249, 245, 245);
+    border-radius: 10px;
+    text-align: center;
+}
+.container-1{
+    text-align: center;
+}
+.container-2{
+    text-align: center;
+}
+.container-3{
+    text-align: center;
+}
+.container-4{
+    text-align: center;
+}
+
+
+
